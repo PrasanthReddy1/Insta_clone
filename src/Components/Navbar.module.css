@@ -1,0 +1,9 @@
+@media only screen and (max-width:480px){
+    .image1{
+        width: 50vw;
+    }
+}
+
+div{
+    background-color: rgb(247, 247, 247);
+}

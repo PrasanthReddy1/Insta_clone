@@ -1,0 +1,19 @@
+.container1{
+    background-color: rgb(247, 247, 247);
+    min-height: 100vh;
+}
+
+
+.btn:hover{
+    background-color: rgb(11, 89, 137) !important;
+}
+
+.fa_heart{
+color: rgb(0, 120, 215)
+}
+
+
+img{
+    cursor: pointer;
+}
+

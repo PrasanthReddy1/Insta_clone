@@ -1,0 +1,46 @@
+.container{
+    margin: 10px;
+    background-color: rgb(247, 247, 247);
+    min-height: 100vh;
+   
+}
+
+
+
+.card1{
+    border: 5px solid rgb(173, 171, 171);
+}
+
+
+
+
+.btn:hover{
+    background-color: rgb(11, 89, 137) !important;
+}
+
+.fa_heart{
+color: rgb(0, 120, 215)
+}
+
+.form_control1:focus {
+    border-color: inherit;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+  }
+
+  .form_input_styling {
+    
+    padding: 0 10px;
+  
+    border: none;
+    outline: none;
+    line-height: 2em;
+    margin-bottom: 20px;
+    
+  }
+
+  @media only screen and(max-width:480px){
+    .image1{
+        width: 100px;
+    }
+  }
